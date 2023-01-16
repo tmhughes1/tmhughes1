@@ -1,4 +1,4 @@
-<h1 align="center">Hi ૮ • ﻌ - ა, I'm Tess</h1>
+<h1 align="center">Welcome ૮ • ﻌ - ა</h1>
 <h3 align="center">CS major</h3>
 
 <h3 align="center"><img src="https://thumbs.gfycat.com/UnfortunateDenseAffenpinscher-max-1mb.gif" alt="totoro" width="600" height="600"/>
